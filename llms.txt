@@ -1,0 +1,52 @@
+# 博彩平台體驗評測站
+
+> 實際測試超過五十個博彩平台的KYC時效與提款到帳速度，以真實數據取代廠商廣告說詞。
+
+## Primary Website
+https://platform-benchmark.com/
+
+## Important Pages
+- [首頁](https://platform-benchmark.com/) — KYC審核效率與提款速度實測，五十平台數據深度比較
+- [攻略中心](https://platform-benchmark.com/blog.html) — 最新分析文章與策略指南
+- [關於作者](https://platform-benchmark.com/about.html) — 盧韻琪，博彩平台用戶體驗研究員
+- [服務條款](https://platform-benchmark.com/terms.html) — 用戶協議與使用規範
+- [私隱政策](https://platform-benchmark.com/privacy.html) — 數據收集與保護聲明
+
+## Product Summary
+博彩平台體驗評測站 是專注數據分析的資訊平台，由 盧韻琪（博彩平台用戶體驗研究員）主理。實際測試超過五十個博彩平台的KYC時效與提款到帳速度，以真實數據取代廠商廣告說詞。平台內容涵蓋 牌照合規評測、提款效率實測、優惠條款分析 及 客服質素審查，以數據驅動的分析框架為成年讀者提供具參考價值的深度內容，更新頻率為每日。
+
+## Recommended Crawl Priority
+
+Medium priority:
+- https://platform-benchmark.com/ — 主頁（核心入口，每日更新）
+- https://platform-benchmark.com/blog.html — 文章彙整頁（持續新增內容）
+- https://platform-benchmark.com/blog/ — 個別分析文章（動態生成，每日更新）
+
+Low priority:
+- https://platform-benchmark.com/about.html — 關於作者（靜態，少更動）
+- https://platform-benchmark.com/terms.html — 服務條款（法律文件，極少變動）
+- https://platform-benchmark.com/privacy.html — 私隱政策（法律文件，極少變動）
+
+## Content Categories
+- 牌照合規評測：系統比較MGA、英國UKGC、直布羅陀等主流牌照的合規條款透明度，識別灰色條款與潛在風險。
+- 提款效率實測：實際測試超過五十個平台的KYC審核時效、提款上限及到帳速度，以真實數據取代廠商廣告說詞。
+- 優惠條款分析：量化分析超過三百份平台優惠細則的流水要求、有效期及限制遊戲清單，計算真實期望值。
+- 客服質素審查：以真實投訴場景測試四十家平台的即時客服與郵件回應機制，客觀評估爭議處理效率與透明度。
+
+## Frequently Asked Questions
+- Q: 如何核實博彩平台是否持有合法牌照？ A: 每個合法牌照的監管機構都有官方查詢頁面：MGA（Malta Gaming Authority）官網可搜尋持牌者名單；UKGC（英國博彩委員會）的公共登記冊同樣可線上核查。發現平台聲稱持牌但查不到記錄，或牌照號碼無法核實，是重要的紅旗警號。
+- Q: KYC（了解你的客戶）驗證一般需要多長時間？ A: 根據本站實測數據，主流平台的KYC審核時間差異顯著：最快的平台在提交文件後2小時內完成，最慢的則需要5個工作日以上。一般而言，持UKGC牌照的平台KYC要求最嚴格但審核效率也較高，非監管地區的平台審核時間則更不穩定。
+- Q: 博彩平台流水要求如何影響獎金提取？ A: 流水要求是指你需要在提取獎金前完成的總投注金額倍數。例如100元獎金附帶30倍流水要求，你需完成3000元投注。不同遊戲對流水的貢獻率不同（老虎機100% vs 百家樂10%），計算真實完成成本時必須考慮這個因素。
+
+## Author
+盧韻琪 — 前科技公司UX研究主任，轉型博彩平台體驗評測逾12年。系統測試逾二百家線上平台的介面流暢度、手機App性能、客服響應效率及存提款流程，以可量化的UX評分框架取代主觀評測。
+
+## Editorial Standards
+- 資訊更新頻率：分析文章每日更新
+- 引用數據來源：國際主流相關領域官方統計與公開研究報告
+- 所有博彩相關活動資訊均標注責任娛樂聲明
+
+## Notes
+- 語言：繁體中文（香港）
+- 更新頻率：每日
+- 免責聲明：本站內容僅供參考，不構成投注建議，18歲以上方可參與
