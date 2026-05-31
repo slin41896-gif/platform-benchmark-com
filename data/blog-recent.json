@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "betting-platform-customer-service-evaluation-standards",
+      "title": "博彩平台客服評分衡量標準：多維度指標體系與評估方法研究",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "我哋成日都話玩博彩最緊要係安心，但有冇諗過平台客服其實係你最大嘅後盾？今日就同大家深入拆解，點樣先算係高質素嘅客服！",
+      "imageUrl": "https://pixabay.com/get/g8c05e27fc43bee3e6bc36c9671a4536293ec1c980764e238c50a2e22db48fd32bd54c10e3cd45c63c3acbbde1a8ea267b85a3b6258f208f6e30b9413c204d207_640.jpg"
+    },
+    {
       "slug": "payme-deposit-gambling-platform-safety-assessment",
       "title": "PayMe存款博彩平台安全性評估：風險控管與監管合規探析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "講到網上平台入錢，FPS同USDT你用開邊種？今日我就同大家深入剖析兩者差異，包你睇完識得點揀！",
       "imageUrl": "https://pixabay.com/get/g7bb3e65183c8fe5f602ccbcfdbbce424788bdf491d1cc7c13e54cdb2a0f2751d522cc2bc81e86da9a296ba038a37c07c2b0dfb428a6e39c7a3d8e21a18a4f1ff_640.jpg"
-    },
-    {
-      "slug": "kyc-verification-process-analysis",
-      "title": "博彩平台KYC身份驗證流程所需時間與影響因素之深度研究分析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋玩家最怕就係提款嗰陣卡關，KYC驗證慢吞吞真係令人火滾！今日就同你拆解點樣可以快人一步。",
-      "imageUrl": "https://pixabay.com/get/gbd8360d966d9696c263db833df3033efe33de9390f658da17445841af6205bd3078f2a53f03227ef751b2089b41cc59e0983c6dd64dd61e8535e1599e68884ae_640.jpg"
     }
   ]
 }
