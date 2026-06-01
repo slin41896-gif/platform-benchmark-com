@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "24-hour-customer-service-verification",
+      "title": "「24小時客服」的真實性驗證：系統性測試方法與實測數據分析",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "玩網上平台最怕有問題無人理？我哋親身實測，睇吓啲平台聲稱嘅24小時客服係咪真係做到嘢！",
+      "imageUrl": ""
+    },
+    {
       "slug": "betting-platform-customer-service-evaluation-standards",
       "title": "博彩平台客服評分衡量標準：多維度指標體系與評估方法研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "講到網上博彩，大家最關心都係錢銀安全。我最近都用PayMe試過幾間平台，真係要好好研究下佢哋嘅安全性先得！",
       "imageUrl": "https://pixabay.com/get/g878fdfc004a5e78aba9388d1904d3884c5c0ec949ff895344ab62a5b1ba4e0b680f3b60fed4d8fb865bc0780fbf96588_640.jpg"
-    },
-    {
-      "slug": "fps-usdt-deposit-difference-analysis",
-      "title": "FPS入款與USDT入款核心差異深度分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "講到網上平台入錢，FPS同USDT你用開邊種？今日我就同大家深入剖析兩者差異，包你睇完識得點揀！",
-      "imageUrl": "https://pixabay.com/get/g7bb3e65183c8fe5f602ccbcfdbbce424788bdf491d1cc7c13e54cdb2a0f2751d522cc2bc81e86da9a296ba038a37c07c2b0dfb428a6e39c7a3d8e21a18a4f1ff_640.jpg"
     }
   ]
 }
