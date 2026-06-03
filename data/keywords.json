@@ -116,8 +116,10 @@
       "category": "安全架構",
       "angle": "疑問句型",
       "image_theme": "casino RNG fairness verification certified",
-      "status": "available",
-      "writing_style": "技術評估框架，1200字"
+      "status": "used",
+      "writing_style": "技術評估框架，1200字",
+      "slug": "online-gaming-rng-fairness-verification",
+      "used_date": "2026-06-03"
     },
     {
       "id": 12,
@@ -125,8 +127,10 @@
       "category": "提款速度",
       "angle": "疑問句型",
       "image_theme": "casino deposit withdrawal limits comparison",
-      "status": "available",
-      "writing_style": "比較分析，含表格，1300字"
+      "status": "used",
+      "writing_style": "比較分析，含表格，1300字",
+      "slug": "online-gaming-platform-deposit-withdrawal-limits",
+      "used_date": "2026-06-03"
     },
     {
       "id": 13,
@@ -134,8 +138,10 @@
       "category": "合法牌照",
       "angle": "疑問句型",
       "image_theme": "hong kong offshore gambling platform legal risk",
-      "status": "available",
-      "writing_style": "法律分析，客觀中立，1200字"
+      "status": "used",
+      "writing_style": "法律分析，客觀中立，1200字",
+      "slug": "hong-kong-online-gambling-legal-risks-compliance",
+      "used_date": "2026-06-03"
     },
     {
       "id": 14,
